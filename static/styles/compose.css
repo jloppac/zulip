@@ -456,6 +456,7 @@ input.recipient_box {
        the left sidebar with a single digit unread count without being
        cut off. */
     width: 175px;
+    visibility: hidden;
 }
 
 #private_message_recipient.recipient_box {
